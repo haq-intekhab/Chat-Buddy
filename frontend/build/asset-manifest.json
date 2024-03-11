@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32e455ed.css",
+    "main.js": "/static/js/main.de02de23.js",
+    "static/media/chatApp-bg.jpg": "/static/media/chatApp-bg.3818288dd1d3a3112ff5.jpg",
+    "index.html": "/index.html",
+    "main.32e455ed.css.map": "/static/css/main.32e455ed.css.map",
+    "main.de02de23.js.map": "/static/js/main.de02de23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e455ed.css",
+    "static/js/main.de02de23.js"
+  ]
+}
